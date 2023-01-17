@@ -1,0 +1,239 @@
+*{margin:0px;
+  padding:0px;}
+
+
+@charset "utf-8";
+#wrapper {
+	display: block;
+	margin:0 auto;
+	height: auto;
+	width: 100%;
+}
+
+
+
+.all{font-family:Verdana, Geneva, sans-serif;
+      text-align:justify;
+	  line-height:20px;
+	  font-size:13px;
+	  text-decoration:none;
+	  padding-left:2px;
+	  padding-right:2px;
+}
+
+
+
+
+.all_list {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color:#333;
+	text-align: left;
+	
+}
+.head {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#cf0933;
+	line-height: 20px;
+		font-weight:normal;
+}
+
+.head1 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	color:#FFFFFF;
+	padding-left:5px;
+	font-weight:normal;
+
+}
+.head2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:13px;
+	color:#cf0933;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+
+
+
+.head2:hover {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:13px;
+	color:#cf0933;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.details {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	line-height: 20px;
+	text-decoration:none;
+}
+.details:hover {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#f1fa02;
+	line-height: 20px;
+	text-decoration:none;
+}
+.line {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.readmore {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	background-color:#3471DB;
+	padding:5px;
+	text-decoration:none;
+}
+.readmore:hover {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	background-color:#999999;
+	padding:5px;
+	text-decoration:none;
+}
+
+.text{font-family:Verdana, Geneva, sans-serif;
+color:#F00;
+font-size:22px;
+font-weight:bold;}
+
+
+ul.t{list-style-type:none;}
+
+li.t{float:left;
+     padding-left:50px;}
+	 
+	 
+	 
+	 .leftbt1 {
+	font-family:Verdana, Geneva, sans-serif;
+	color:#FFF;
+	font-size:14px;
+	text-decoration:none;
+	font-weight:bold;
+}
+.leftbt1:hover {
+	font-family:Verdana, Geneva, sans-serif;
+	color:#F00;
+	font-size:14px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+
+
+.pr {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	color:#FFFFFF;
+	padding-left:5px;
+	font-weight:normal;
+}
+
+
+
+.all2{font-family:Verdana, Geneva, sans-serif;
+      text-align:justify;
+	  line-height:20px;
+	  font-size:13px;
+	  text-decoration:none;
+	  padding-left:5px;
+	  padding-right:5px;
+}
+
+
+.border{border-style:dashed;
+border-color:#999;
+border-width:1px;}
+
+
+
+
+.pr22 {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:14px;
+	color:#FDFD00;
+	padding-left:5px;
+	font-weight:normal;
+}
+    
+.all0{font-family:Tahoma, Geneva, sans-serif;
+font-size:13px;
+color:#000;
+text-align:justify;
+line-height:18px;
+font-weight:inherit;}
+
+.type{font-family:Tahoma, Geneva, sans-serif;
+font-size:13px;
+color:#FFF;
+text-align:justify;
+line-height:18px;
+font-weight:inherit;
+padding-left:5px;}
+
+.type-1{font-family:Tahoma, Geneva, sans-serif;
+font-size:25px;
+color:#FFF;
+text-align:justify;
+
+font-weight:inherit;
+
+padding-left:5px;}
+    
+.border{border-color:#333333;
+border-style:dashed;
+border-width:thin;}
+
+
+
+.type0{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	color:#000;
+	text-align:justify;
+	font-weight:inherit;
+	padding-left:5px;
+}
+
+.banner{text-align:center;}
+
+
+.subname {
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	background-color:#3471DB;
+	
+	text-decoration:none;
+}
+
+.brocher{font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#414141;
+	padding-left:5px;
+	font-weight:normal;
+	text-decoration:none;}
+	
+
+.brocher:hover{font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;
+	color:#414141;
+	padding-left:5px;
+	font-weight:normal;
+	text-decoration:underline;}
+	
+	
+.red{color:#F90000}
